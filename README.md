@@ -12,9 +12,9 @@ De directie van De Hallen wil meer betekenisvol zijn voor de buurt. Hun wens is 
 
 [Backlog](https://github.com/orgs/fdnd-agency/projects/17/views/1?layout=board&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D)
 
-[Huisstijl]()
+Huisstijl
 
-[Content]()
+Content
 
 [Website van De Hallen](https://dehallen-amsterdam.nl/ )
 
