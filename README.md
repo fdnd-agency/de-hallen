@@ -7,13 +7,15 @@ De Hallen bevinden zich midden in Oud-West vlak achter de Kinkerstraat en grenze
 
 De directie van De Hallen wil meer betekenisvol zijn voor de buurt. Hun wens is om een digitaal platform (website) te realiseren vanuit de nieuwe Stichting voor buurtinitiatieven. Er zijn in totaal 200 buurtinitiatieven (data) geïnventariseerd. 
 
-## Resources
+## Design challenge
+
+Ontwerp en ontwikkel een online platform waar buurtinitiatieven uit Oud-West een verzameld en bekeken kunnen worden.
 
 [Backlog](https://github.com/orgs/fdnd-agency/projects/17/views/1?layout=board&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D)
 
-Huisstijl
+[Huisstijl]()  
 
-Content
+[Content]()  
 
 [Website van De Hallen](https://dehallen-amsterdam.nl/ )
 
