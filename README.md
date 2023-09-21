@@ -15,7 +15,7 @@ Ontwerp en ontwikkel een online platform waar buurtinitiatieven uit Oud-West een
 
 [Huisstijl]()  
 
-[Content]()  
+[Content](https://github.com/fdnd-agency/de-hallen/blob/main/Lijst%20maatschappelijke%20organisaties%20en%20initiatieven.xlsx)  
 
 [Website van De Hallen](https://dehallen-amsterdam.nl/ )
 
