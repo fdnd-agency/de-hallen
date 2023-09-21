@@ -11,9 +11,11 @@ De directie van De Hallen wil meer betekenisvol zijn voor de buurt. Hun wens is 
 
 Ontwerp en ontwikkel een online platform waar buurtinitiatieven uit Oud-West een verzameld en bekeken kunnen worden.
 
+## Resources
+
 [Backlog](https://github.com/orgs/fdnd-agency/projects/17/views/1?layout=board&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D)
 
-[Huisstijl]()  
+[Huisstijl](https://github.com/fdnd-agency/de-hallen/blob/main/Huisstijl%20De%20Hallen.png)  
 
 [Content](https://github.com/fdnd-agency/de-hallen/blob/main/Lijst%20maatschappelijke%20organisaties%20en%20initiatieven.xlsx)  
 
