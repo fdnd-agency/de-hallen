@@ -9,7 +9,7 @@ De directie van De Hallen wil meer betekenisvol zijn voor de buurt. Hun wens is 
 
 ## Design challenge
 
-Ontwerp en ontwikkel een online platform waar buurtinitiatieven uit Oud-West een verzameld en bekeken kunnen worden.
+Ontwerp en ontwikkel een online platform waar buurtinitiatieven uit Oud-West een verzameld en bekeken kunnen worden. Het idee is dat het platform een soort marktplaats-achtige site moeten zijn waar vraag en aanbod bij elkaar komen, met ruimte voor uitbreiding van vraag en aanbod.
 
 ## Resources
 
